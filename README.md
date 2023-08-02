@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Misael Bolainez</h1>
 <h3 align="center">Full-stack developer, Software Engineer, Gamer, Artist, Dad</h3>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Back end**
 
 - 👨‍💻 All of my projects are available at [https://missile720.github.io/](https://missile720.github.io/)
 
